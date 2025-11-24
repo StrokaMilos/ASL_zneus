@@ -8,7 +8,9 @@
 
 - stiahnuť dataset... obaja
 - vypočítaď mean, std na normalizáciu z ASL
-- fix greyscale dataloading
+
+- nafotit vlastné fotky (video) a trenovať/testovať na tom (váhy)
+- mby live detection
 
 ### Requirements
 ○ Data analysis
