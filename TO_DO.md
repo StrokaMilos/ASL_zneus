@@ -1,22 +1,16 @@
 
 # Till  first consultation
-○ Select task (google sheet maximum 2 teams per task, first come, first serve)
-○ Download and examine dataset
-○ Exploratory data analysis (example)
 ○ Select evaluation metrics
 ○ Preprocessing and initial augmentations
-
-- stiahnuť dataset... obaja
-- vypočítaď mean, std na normalizáciu z ASL
 
 - nafotit vlastné fotky (video) a trenovať/testovať na tom (váhy)
 - mby live detection
 
 ### Requirements
-○ Data analysis
-○ Data preprocessing and normalization
-○ Data split
-○ Augmentations
+○ Data analysis - DONE
+○ Data preprocessing and normalization - DONE
+○ Data split - DONE
+○ Augmentations - DONE
 ○ Configuration
 ○ Experiment tracking
 ○ Experiments - meaningful based on the results of previous experiments
